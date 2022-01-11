@@ -5,7 +5,7 @@ patient health data from MIT’s GOSSIS (Global Open Source Severity
 of Illness Score). This dataset was used in the 2020 Global Women in Data Science hackathon hosted by
 Kaggle (https://www.kaggle.com/c/widsdatathon2020/overview).The dataset includes information about
 more than 130,000 Intensive Care Unit (ICU) visits
-(For details of the dataset, please read dictionary.?????)
+(For details of the dataset, please read dictionary.)
 
 # Project Goal
 The goal is to build a model to predict patient survival given these ICU visit information.
